@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cosmotechnics
+- 👋 Hi, I’m @malwaremedusa
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on some proyects for noobs
-- 📫 How to reach me > cosmotechnics@protonmail.com
+- 🌱 I’m currently continue learning cybersecurity
+- 💞️ I’m looking to collaborate on some proyects 
+- 📫 How to reach me > cmalwaremedusa@protonmail.com
 
 <!---
 cosmotechnics/cosmotechnics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
